@@ -1,0 +1,7 @@
+songs/*
+obj/*
+*.p
+.dist/*
+.vscode/*
+bin/*
+tests/*

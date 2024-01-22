@@ -1,0 +1,1 @@
+make all && valgrind bin/ultrastar-editor -g
